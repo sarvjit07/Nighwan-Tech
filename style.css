@@ -1,0 +1,25 @@
+body{
+    height: 500px;
+    padding-top:48px ;
+}
+
+.logo-img{
+    margin-top: -2px;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 400px;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #118f48;
+}
+
